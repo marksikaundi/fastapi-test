@@ -1,0 +1,3 @@
+packages used:
+- Fastapi
+- uvicorn
